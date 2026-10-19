@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Chicoblanco303/Chicoblanco303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shintaro Braza 👋
 
-Here are some ideas to get you started:
+### IT Student | Aspiring Software Developer | Information Technoly Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 4th-year BSIT student at STI College Pasay EDSA
+currently preparing for an IT internship/OJT opportunity.
+
+## About Me
+- 🎓 Bachelor of Science in Information Technology
+- 💻 Learning software and web development
+- 🗄️ Exploring database management and SQL
+- 🔐 Interested in networking and cybersecurity
+- 🚀 Building projects to improve my programming skills
+
+## Skills & Technologies
+- **Programming:** Python, Java
+- **Web Development:** HTML, CSS, JavaScript
+- **Database:** SQL
+- **Tools:** Git, GitHub, NetBeans, VS Code
+
+## Projects
+- Application Development School Projects
+- Web Development Practice
+- Python Programming Exercises
+- Database Management Activities
+
+## Current Goal
+To gain practical IT experience through an internship/OJT
+and continue developing my technical skills.
