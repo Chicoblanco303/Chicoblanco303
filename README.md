@@ -1,7 +1,7 @@
 
 # Hi, I'm Shintaro Braza 👋
 
-### IT Student | Aspiring Software Developer | Information Technoly Support
+### IT Student | Aspiring Software Developer | Information Technology Support
 
 I'm a 4th-year BSIT student at STI College Pasay EDSA
 currently preparing for an IT internship/OJT opportunity.
