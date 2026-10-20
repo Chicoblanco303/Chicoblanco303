@@ -8,7 +8,7 @@ currently preparing for an IT internship/OJT opportunity.
 
 ## About Me
 - 🎓 Bachelor of Science in Information Technology
-- 💻 Learning software and web development
+- 💻 Learning software, web development and python programming
 - 🗄️ Exploring database management and SQL
 - 🔐 Interested in networking and cybersecurity
 - 🚀 Building projects to improve my programming skills
@@ -21,6 +21,7 @@ currently preparing for an IT internship/OJT opportunity.
 
 ## Projects
 - Application Development School Projects
+- OOP Programming Exercises
 - Web Development Practice
 - Python Programming Exercises
 - Database Management Activities
