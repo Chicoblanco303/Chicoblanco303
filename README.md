@@ -6,7 +6,7 @@
 I'm a 4th-year BSIT student at STI College Pasay EDSA
 currently preparing for an IT internship/OJT opportunity.
 
-##💻 Areas of Interest
+#💻 Areas of Interest
 
 🛠️ IT Support & Technical Troubleshooting
 
@@ -17,7 +17,7 @@ currently preparing for an IT internship/OJT opportunity.
 🤖 AI Tools and Technology
 
 
-##🚀 Currently Learning
+#🚀 Currently Learning
 
 Python Development
 
