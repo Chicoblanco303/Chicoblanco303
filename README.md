@@ -1,7 +1,7 @@
 
 # Hi, I'm Shintaro Braza 👋
 
-### Aspiring IT Support Specialist with an interest in Python programming, troubleshooting, and graphic design. Continuously learning and building projects.
+### Aspiring IT Support Specialist with an interest in Python programming, Troubleshooting, and Graphic Gesign. Continuously learning and building projects.
 
 I'm a 4th-year BSIT student at STI College Pasay EDSA
 currently preparing for an IT internship/OJT opportunity.
